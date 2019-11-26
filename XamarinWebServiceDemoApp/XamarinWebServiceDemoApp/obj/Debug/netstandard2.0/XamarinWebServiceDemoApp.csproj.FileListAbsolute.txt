@@ -1,0 +1,13 @@
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\bin\Debug\netstandard2.0\XamarinWebServiceDemoApp.deps.json
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\bin\Debug\netstandard2.0\XamarinWebServiceDemoApp.dll
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamarinWebServiceDemoApp.AssemblyInfoInputs.cache
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamarinWebServiceDemoApp.AssemblyInfo.cs
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\bin\Debug\netstandard2.0\ref\XamarinWebServiceDemoApp.dll
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\bin\Debug\netstandard2.0\XamarinWebServiceDemoApp.pdb
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamarinWebServiceDemoApp.csprojAssemblyReference.cache
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamarinWebServiceDemoApp.dll
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\ref\XamarinWebServiceDemoApp.dll
+C:\GitHub\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\XamarinWebServiceDemoApp\obj\Debug\netstandard2.0\XamarinWebServiceDemoApp.pdb
